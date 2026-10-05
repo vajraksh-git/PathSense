@@ -34,7 +34,7 @@ The simulator uses a virtual serial port bridge to communicate with Unity.
 
 ### 4. Running the Project
 1. Press **Play** in Unity.
-2. In a terminal, run the simulator:
+2. In a terminal, run the simulator: 
    ```bash
    python sim.py
    ```
